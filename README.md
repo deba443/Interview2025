@@ -19,6 +19,7 @@ This repository is a collection of all essential resources, concepts, and interv
 - Asynchronous JavaScript (Promises, Async/Await)
 - Data Structures and Algorithms
 - JavaScript Interview Questions
+- Prototype and polyphill
 
 ### CSS
 - Styling Techniques
