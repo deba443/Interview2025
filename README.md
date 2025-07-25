@@ -71,4 +71,4 @@ Feel free to reach out if you want to discuss interview preparation strategies o
 
 ---
 
-> **Created with ❤️ for Interview Preparation 2025**
+> **Created with ❤️ for Interview Preparation **
